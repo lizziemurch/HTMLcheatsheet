@@ -4,7 +4,7 @@ header {
     width: 1156px;
     padding-left: 10px;
     padding-bottom: 10px;
-    background-image: url("/Users/lizziemurch/Code/Codecademy/Projects/CheatSheet/Resources/CSS/Images/hacker-4031973_1920.jpg") ;
+    background-image: url("./Images/hacker-4031973_1920.jpg") ;
 }
 
 h1, h2, h3 {
